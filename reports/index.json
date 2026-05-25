@@ -1,0 +1,30 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260525-200122-yvz8",
+      "title": "Mèsmér",
+      "commanders": [
+        "Mèsmér"
+      ],
+      "dateStart": "2026-05-25T19:01:22.000Z",
+      "dateEnd": "2026-05-25T19:58:09.000Z",
+      "dateLabel": "25/5/2026, 20:01:22 - 25/5/2026, 20:58:09",
+      "url": "https://Masnuelin.github.io/GW2/?report=20260525-200122-yvz8",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 14,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 42
+      }
+    }
+  ]
+}
