@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260806-213337-c88p",
+      "title": "Freaky In Heals, Masnuelinx",
+      "commanders": [
+        "Freaky In Heals",
+        "Masnuelinx"
+      ],
+      "dateStart": "2026-08-06T20:33:37.000Z",
+      "dateEnd": "2026-08-06T21:44:25.000Z",
+      "dateLabel": "6/8/2026, 21:33:37 - 6/8/2026, 22:44:25",
+      "url": "https://Masnuelin.github.io/GW2/?report=20260806-213337-c88p",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 68
+      }
+    },
+    {
       "id": "20260525-200122-gcv7",
       "title": "Mèsmér",
       "commanders": [
