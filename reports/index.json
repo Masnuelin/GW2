@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260808-190535-x8w0",
+      "title": "Unstoppable Finger",
+      "commanders": [
+        "Unstoppable Finger"
+      ],
+      "dateStart": "2026-08-08T18:05:35.000Z",
+      "dateEnd": "2026-08-08T19:41:44.000Z",
+      "dateLabel": "8/8/2026, 19:05:35 - 8/8/2026, 20:41:44",
+      "url": "https://Masnuelin.github.io/GW2/?report=20260808-190535-x8w0",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260730-214258-4253",
       "title": "Masnuelinx",
       "commanders": [
