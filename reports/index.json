@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260901-211341-vl8p",
+      "title": "Firulais Reborn",
+      "commanders": [
+        "Firulais Reborn"
+      ],
+      "guild": {
+        "id": "6C45F3C8-F21C-EF11-81AB-8B4A188BDE13",
+        "name": "Dolyak Sanctuary",
+        "tag": "YaK"
+      },
+      "dateStart": "2026-09-01T20:13:41.000Z",
+      "dateEnd": "2026-09-01T21:55:03.037Z",
+      "dateLabel": "1/9/2026, 21:13:41 - 1/9/2026, 22:55:03",
+      "url": "https://Masnuelin.github.io/GW2/?report=20260901-211341-vl8p",
+      "summary": {
+        "borderlandsPct": 0.07142857142857142,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260808-190535-x8w0",
       "title": "Unstoppable Finger",
       "commanders": [
