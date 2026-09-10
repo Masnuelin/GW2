@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260910-211443-czqi",
+      "title": "Masnuelinx, Xandar Lordkeeper",
+      "commanders": [
+        "Masnuelinx",
+        "Xandar Lordkeeper"
+      ],
+      "guild": {
+        "id": "6C45F3C8-F21C-EF11-81AB-8B4A188BDE13",
+        "name": "Dolyak Sanctuary",
+        "tag": "YaK"
+      },
+      "dateStart": "2026-09-10T20:14:43.000Z",
+      "dateEnd": "2026-09-10T21:11:37.956Z",
+      "dateLabel": "10/9/2026, 21:14:43 - 10/9/2026, 22:11:37",
+      "url": "https://Masnuelin.github.io/GW2/?report=20260910-211443-czqi",
+      "summary": {
+        "borderlandsPct": 0.16666666666666666,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260901-211341-vl8p",
       "title": "Firulais Reborn",
       "commanders": [
