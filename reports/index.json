@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260917-213016-a1n5",
+      "title": "Masnuelinn",
+      "commanders": [
+        "Masnuelinn"
+      ],
+      "guild": {
+        "id": "6C45F3C8-F21C-EF11-81AB-8B4A188BDE13",
+        "name": "Dolyak Sanctuary",
+        "tag": "YaK"
+      },
+      "dateStart": "2026-09-17T20:30:16.000Z",
+      "dateEnd": "2026-09-17T21:28:33.381Z",
+      "dateLabel": "17/9/2026, 21:30:16 - 17/9/2026, 22:28:33",
+      "url": "https://Masnuelin.github.io/GW2/?report=20260917-213016-a1n5",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 60
+      }
+    },
+    {
       "id": "20260910-211443-czqi",
       "title": "Masnuelinx, Xandar Lordkeeper",
       "commanders": [
