@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20261017-191552-z48h",
+      "title": "Unstoppable Finger",
+      "commanders": [
+        "Unstoppable Finger"
+      ],
+      "guild": {
+        "id": "2E0CD308-6D3B-EE11-BA1F-06F2763BE7D0",
+        "name": "Totally Inept Tactical Squad",
+        "tag": "JUGS"
+      },
+      "dateStart": "2026-10-17T18:15:52.000Z",
+      "dateEnd": "2026-10-17T19:58:57.908Z",
+      "dateLabel": "17/10/2026, 19:15:52 - 17/10/2026, 20:58:57",
+      "url": "https://Masnuelin.github.io/GW2/?report=20261017-191552-z48h",
+      "summary": {
+        "borderlandsPct": 0.10526315789473684,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20261015-211726-aemu",
       "title": "Masnuelinx, Masnuelinxn",
       "commanders": [
