@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20261025-212336-d3yb",
+      "title": "Firulais Reborn, Masnuelinx",
+      "commanders": [
+        "Firulais Reborn",
+        "Masnuelinx"
+      ],
+      "guild": {
+        "id": "6C45F3C8-F21C-EF11-81AB-8B4A188BDE13",
+        "name": "Dolyak Sanctuary",
+        "tag": "YaK"
+      },
+      "dateStart": "2026-10-25T21:23:36.000Z",
+      "dateEnd": "2026-10-25T22:44:49.224Z",
+      "dateLabel": "25/10/2026, 21:23:36 - 25/10/2026, 22:44:49",
+      "url": "https://Masnuelin.github.io/GW2/?report=20261025-212336-d3yb",
+      "summary": {
+        "borderlandsPct": 0.07407407407407407,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20261022-212001-w3zh",
       "title": "Masnuelinx",
       "commanders": [
